@@ -1,1 +1,2 @@
 # EthLotto
+TODO
